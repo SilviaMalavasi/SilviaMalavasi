@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SilviaMalavasi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in web dev / interactions dev
 - 📫 How to reach me smalavasi24@gmail.com
 
 <!---
